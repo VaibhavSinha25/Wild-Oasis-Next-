@@ -2,5 +2,5 @@ export const metadata = {
   title: "Guest area",
 };
 export default function Page() {
-  return <h1>Account page</h1>;
+  return <h1>Welcome, Vaibhav</h1>;
 }
