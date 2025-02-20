@@ -1,5 +1,5 @@
 import SelectCountry from "@/app/_components/SelectCountry";
-import UpdateProfileForm from "../../_components/updateProfileForm";
+import UpdateProfileForm from "../../_components/UpdateProfileForm";
 import { auth } from "../../_lib/auth";
 import { getGuest } from "../../_lib/data-service";
 export const metadata = {
